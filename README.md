@@ -104,8 +104,10 @@ The model follows an encoder-decoder based architecture consisting of three main
 
 ## Cloning the repo    
    ```bash
+
    git clone https://github.com/Ebrahim1501/ShowAttendAndTell-Pytorch-ImageCaptioning-Implementation
    cd <your-dir-name>
+  
    ```
 ##  to run Using The Docker file
 
