@@ -16,7 +16,7 @@ This project is my personal PyTorch implementation of the [*Show, Attend, and Te
 
 
 
-### Repository Contents  
+### Repository Contents:  
 
 **Root Directory**  
 - `note_book_requirements.txt`  
